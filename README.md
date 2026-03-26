@@ -1,5 +1,3 @@
-# Prathamesh-Sangale
-My Business Analysis Portfolio | Projects, Skills, and Certifications
 # Hi, I'm Prathamesh Sangale 👋
 
 ## About Me
@@ -26,14 +24,14 @@ Currently, I am building skills in:
 ## Projects
 
 ### 📊 Sales & Profit Analysis (Excel)
-[View Project](github.com/PrathameshSS07/Sales_Profit_Analysis_Excel
+[View Project](https://github.com/PrathameshSS07/Sales_Profit_Analysis_Excel
 )
 - Analyzed retail dataset using Pivot Tables
 - Identified profit trends and top-performing categories
 - Provided business recommendations
 
 ### 🏋️ Village Gym Business Case Study
-[View Project](github.com/PrathameshSS07/gym-member-retention-case-study)
+[View Project](https://github.com/PrathameshSS07/Gym-Member-Retention-Case-Study)
 - Analyzed customer behavior and seasonal demand
 - Identified retention challenges
 - Suggested business improvements
