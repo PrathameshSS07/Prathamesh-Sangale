@@ -23,9 +23,6 @@ I am a second-year BBA student with a strong interest in Business Analysis, Data
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathameshsangale09@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrathameshSS07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrathameshSS07&theme=dark&hide_border=false)<br/>
 
 ---
 
